@@ -7,6 +7,7 @@
  * @source https://github.com/Ar4ys/bbd-plugins/tree/master/DiscordStickersUnlocker
  */
 
+// TODO: Add dependency checking
 module.exports = class {
 	getName = () => "Discord Stickers Unlocker"
 	getAuthor = () => "Ar4ys"
