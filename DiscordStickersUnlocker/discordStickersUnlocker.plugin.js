@@ -1,4 +1,12 @@
-//META{"name":"DiscordStickersUnlocker","source":"https://github.com/Ar4ys/bbd-plugins/tree/master/DiscordStickersUnlocker","authorId":"275269545651077120"}*//
+/**
+ * @name DiscordStickersUnlocker
+ * @version 0.6
+ * @description Unlock Discord stickers before release
+ * @authorId 275269545651077120
+ *
+ * @source https://github.com/Ar4ys/bbd-plugins/tree/master/DiscordStickersUnlocker
+ */
+
 module.exports = class {
 	getName = () => "Discord Stickers Unlocker"
 	getAuthor = () => "Ar4ys"
